@@ -1,1 +1,0 @@
-Porque cuando la carpeta esta vacia no permite el push, esta tiene que tener algo adentro.
