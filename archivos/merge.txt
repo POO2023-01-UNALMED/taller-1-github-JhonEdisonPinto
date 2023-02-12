@@ -1,6 +1,5 @@
-
 Jhon Edison Pinto Hincapie
 18 años
 Quiero poder aprender a manejar bien lo que es POO para poder usarlo en un futuro en el ambito laboral.
-Ahora puedo hacer commit a la carpeta debido a que esta tiene un archivo adentro o no esta vacia.
+
 
