@@ -1,0 +1,1 @@
+Ahora puedo hacer commit a la carpeta debido a que esta tiene un archivo adentro o no esta vacia.
